@@ -12,3 +12,7 @@ secrets/
 private/
 tmp/
 
+
+# Task Observer: registros locais, nunca versionar
+skill-observations/
+skill-updates/
